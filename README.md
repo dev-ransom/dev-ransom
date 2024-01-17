@@ -26,6 +26,7 @@ const Ransom = {
 }
 ```
 [![Ransom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ransom)](https://github.com/dev-ransom/github-readme-stats)
+[![stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=idungstanley)](https://github.com/idungstanley/github-readme-stats)
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
