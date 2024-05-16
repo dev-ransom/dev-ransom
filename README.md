@@ -39,4 +39,4 @@ const Ransom = {
 
 
 
-<p>You can check out my portfolio <a href="https://dev.github.io/responsive-portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://personal-portfolio-ashy-beta.vercel.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
