@@ -16,13 +16,13 @@
 const Ransom = {
   lookingFor: "Quality Asssurance Engineer" || "Full-stack web developer",
   😄 pronouns: ["He", "him"],
-  code: [JavaScript,  HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS, Material UI],
+  code: [JavaScript, React, Vue, Redux, 'React-query', Typescript, HTML & CSS, Semantic UI, Bootstrap, 
+  Tailwind CSS, Styled component, Material UI],
   💬 askMeAbout: [Music, Opinions, Science, Revival],
-  challenge: ""I am sharpening my JavaScript skills while also acquiring proficiency in React."",
+  challenge: "I am acquiring proficiency in React.",
  ⚡ funFacts: ['I have 2+ years of remote work experience with devs 
   from all over the world', 
-  'I enjoy listening to music when I have some leisure time.']
+  'I enjoy studying when I have some leisure time.']
 }
 ```
 [![Ransom's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-ransom)](https://github.com/dev-ransom/github-readme-stats)
