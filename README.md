@@ -19,7 +19,7 @@
 * ⚡  I'm secretly a Spiderman - finding bugs all day :)
 
   
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300px"/>
 
 <p align="left">
   <!-- GitHub Followers Badge with 'for-the-badge' style -->
