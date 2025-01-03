@@ -10,13 +10,15 @@
 <br /><br />
 🎯 𝑨𝒍𝒘𝒂𝒚𝒔 𝒓𝒆𝒂𝒅𝒚 𝒕𝒐 𝒆𝒎𝒃𝒓𝒂𝒄𝒆 𝒏𝒆𝒘 𝒄𝒉𝒂𝒍𝒍𝒆𝒏𝒈𝒆𝒔 𝒂𝒏𝒅 𝒆𝒂𝒈𝒆𝒓 𝒕𝒐 𝒆𝒙𝒑𝒂𝒏𝒅 𝒎𝒚 𝒉𝒐𝒓𝒊𝒛𝒐𝒏𝒔 𝒂𝒔 𝒂 𝑭𝒖𝒍𝒍 𝑺𝒕𝒂𝒄𝒌 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, I’m committed to continuous learning and growth. Let’s connect and explore how we can create something amazing together.
 
-* 🌍  I'm based in Lagos, Nigeria
+<div display="flex">* 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](https://threejs-portfolio-theta-swart.vercel.app/)
 * ✉️  You can contact me at [sundayyoung64@mail.com](mailto:sundayyoung64@mail.com)
 * 🚀  I'm currently working on [MyTaskFolio](http://mytaskfolio.vercel.app)
 * 🧠  I'm learning Data Structures and Algorithms
 * 🤝  I'm open to collaborating on Open Source Project
 * ⚡  I'm secretly a Spiderman - finding bugs all day :)
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+</div>
 
 <p align="left">
   <!-- GitHub Followers Badge with 'for-the-badge' style -->
