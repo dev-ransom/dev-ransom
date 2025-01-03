@@ -74,35 +74,28 @@ and a 10% increase in revenue.
 ## :mailbox: Reach me out
 
 <div align="left"> 
-  <a href="https://discord.com/users/khalidhasan" target="_blank" rel="noreferrer"> 
+  <a href="https://discord.com/users/sundayransom" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> 
     </picture> 
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/khalid.hasan9753" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /> 
-    </picture> 
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.github.com/ThisIsKhalid" target="_blank" rel="noreferrer"> 
+  <a href="https://www.github.com/dev-ransom" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> 
     </picture> 
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/khalid-hasan97" target="_blank" rel="noreferrer"> 
+  <a href="https://www.linkedin.com/in/ransom-sunday-9a8b04249/" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> 
     </picture> 
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@khalidsDevLab" target="_blank" rel="noreferrer"> 
+  <a href="https://www.youtube.com/@youngsunday8192" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
@@ -111,3 +104,36 @@ and a 10% increase in revenue.
   </a>
 </div>
 <br />
+
+
+## :computer: Technologies that I know
+
+<p align="left">
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/html-5.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/css-3.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/tailwind.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/materialUI.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/ant-design.svg"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/chakraUI.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/js.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/typescript.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/reactjs.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/nextjs1.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/redux.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/nodejs.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/postman.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/Images/icons/nextauth.png"/>&nbsp;&nbsp;&nbsp;
+</p>
+
+<br />
+
+## :chart_with_upwards_trend: Current Stats
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-ransom&show_icons=true&locale=en&layout=compact&bg_color=0D1117&border_color=30363D&text_color=FFFFFF&icon_color=FB8C00" alt="devransom" />
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-ransom&background=0D1117&sideNums=FFFFFF&sideLabels=9A9A9A&currStreakNum=FB8C00&dates=6E6E6E" alt="thisiskhalid" /></p>
+
+<p align="center"><img align="center" src="https://leetcard.jacoblin.cool/khalid-hasan97?ext=heatmap" alt="khalid-hasan97" /></p>
+<!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
