@@ -29,3 +29,85 @@
 </p>
 <br />
 
+## 🏆 Experience
+
+- **Frontend Developer**  
+  **Talstrike** | *Feb 2024 - Present* | Full-time | remote | **United Kingdom**  
+  - Designed and developed a reusable component library for future use, resulting in a 40% reduction in development time for new projects.
+  - I created a website using React, React-Redux, and React-Router for single-page app routing, modeled with a component-centric, loosely coupled architecture approach.
+  - I used Redux for state and application data (client side) flow and management.
+  - I optimized components for maximum performance across a vast array of web-capable devices and browsers, resulting in a 30% increase in user engagement 
+and a 10% increase in revenue.
+  - I collaborated with cross-functional teams to ensure the timely delivery of project milestones.
+  - I utilized Redux for state management, resulting in a 25% reduction in code complexity and a 15% increase in team productivity.
+    
+---
+
+- **Junior Web Developer**
+  **Also Software Group** | *May 2022 - Jul 2023* | Contract | remote | **United Kingdom**  
+  - Supported the Design Team: Assisted the design team by implementing visual and interaction designs in projects, contributing to a cohesive user experience and improving design-to-development alignment.
+  - Developed Reusable Components: Created reusable frontend components to ensure consistency across projects, enhancing efficiency and speeding up development workflows.
+  - Contributed to a Project Tracking System: Assisted in developing a project tracking interface to monitor task progress, improving visibility and team collaboration.
+  - Collaborated with Cross-Functional Teams: Worked closely with designers and developers, translating design prototypes into functional code, and accelerating project delivery timelines by improving communication and understanding.
+    
+---
+
+- **Engineer Intern**
+  **UNITED BANK FOR AFRICA ·** | *Jan 2022 - Feb 2023 ·* | Internship | remote | **Lagos, Nigeria**  
+  - Developed front-end applications and components using HTML5, CSS3, JavaScript, and React for the login and management modules.
+  - I developed a single-page application using React and React-Router, allowing users to manage subscriptions and increase conversions.
+  - Consumed REST web service to fetch JSON format data from the web server. Involved AJAX calls for data updates in Ul along with JSON data parsing.
+  - Used Bootstrap and media queries to make responsive web pages. Involved in TDD to develop and perform test cases using Jasmine and Karma.
+    
+---
+
+- **Junior Web Developer**
+  **Huawei Technologies** | *Jan 2021 - Mar 2022* | Internship | hybrid | **Lagos, Nigeria**  
+  - Using React.Js to create seamless front-end integrations with client-side routing.
+  - Consumption of third-party and proprietary GraphQL and REST APIs, and proper error and exception handling.
+  - UI and UX Development and Design using React.Js, HTML5, and CSS3 (Web).
+  - Apply styling and animations to match UI/UX requirements.
+
+<br />
+
+
+## :mailbox: Reach me out
+
+<div align="left"> 
+  <a href="https://discord.com/users/khalidhasan" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" /> 
+    </picture> 
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/khalid.hasan9753" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" /> 
+    </picture> 
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.github.com/ThisIsKhalid" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> 
+    </picture> 
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/khalid-hasan97" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> 
+    </picture> 
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@khalidsDevLab" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="40" height="40" /> 
+    </picture> 
+  </a>
+</div>
+<br />
