@@ -109,21 +109,21 @@ and a 10% increase in revenue.
 ## :computer: Technologies that I know
 
 <p align="left">
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/html-5.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/css-3.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/tailwind.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/materialUI.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/ant-design.svg"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/chakraUI.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/js.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/typescript.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/reactjs.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/nextjs1.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/redux.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/nodejs.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/postman.png"/>&nbsp;&nbsp;&nbsp;
-<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/main/images/icons/nextauth.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/html-5.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/css-3.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/bootstrap.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/tailwind.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/materialUI.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/ant-design.svg"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/chakraUI.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/js.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/typescript.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/reactjs.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/nextjs1.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/redux.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/nodejs.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/postman.png"/>&nbsp;&nbsp;&nbsp;
+<img width="50px" src="https://github.com/dev-ransom/dev-ransom/blob/master/images/icons/nextauth.png"/>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br />
