@@ -3,7 +3,7 @@
 <!--
 **dev-ransom/dev-ransom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h2> Hi, I'm Ransom (Idung) Sunday! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
+<h2> Hi there, This is wave Ransom (Idung) Sunday! </h2>
 <p><em>"Passionate intermediate Front-End Developer dedicated to crafting seamless user experiences through modern web technologies. Proficient in HTML, CSS, and JavaScript, with a keen eye for design aesthetics and a drive to create visually appealing and responsive websites. Continuously expanding skills and staying up-to-date with industry trends to deliver innovative and engaging digital solutions."</em><img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ransom%20Sunday-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ransom-sunday/)](https://www.linkedin.com./in/ransom-sunday/)
